@@ -43,8 +43,6 @@ Modern Scientific Calculator es una aplicación desarrollada con HTML, CSS y Jav
 
 ## Funciones científicas
 
-<div align="center">
-
 | Función                | Estado     |
 | ---------------------- | ---------- |
 | Potencias              | Disponible |
